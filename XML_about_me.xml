@@ -1,0 +1,26 @@
+<person>
+<about>
+ <first_name>Анастасия</first_name>
+ <last_name>Шевцова</last_name>
+ <birthday>1991-05-05</birthday>
+ <age>29</age>
+</about>
+<contacts>
+ <phone>+79110743335</phone>
+ <email>dizlinka@gmail.com</email>
+ <city>Kalinigrad</city>
+</contacts>
+<skills>
+ <hardskills>
+   <hardskill1>
+       <nameOfSkill>postman</nameOfSkill>
+       <skills1>sending requests, writing scripts, running collections</skills1>
+   </hardskill1>
+   <hardskill2>
+   <nameOfSkill>SQL</nameOfSkill>
+   <skills2>display all data, filter data, order results, update data, insert data, delete data, join</skills2>
+   </hardskill2>
+ </hardskills>
+ <softskills> communication, organized, proactive, adaptability</softskills>
+</skills>
+</person>
