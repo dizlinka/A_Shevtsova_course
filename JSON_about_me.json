@@ -1,0 +1,24 @@
+{
+"about":
+{
+"first_name" : "Анастасия",
+"last_name" : "Шевцова",
+"birthday" : "1991-05-05",
+"age" : 29
+},
+"contacts":
+{
+"phone" : "+79110743335",
+"email" : "dizlinka@gmail.com",
+"city" : "Kalinigrad"
+},
+"skills" :
+{
+"hardskills" : 
+{
+"postman" : "sending requests, writing scripts, running collections",
+"SQL" : "display all data, filter data, order results, update data, insert data, delete data, join"
+},
+"softskills": "communication, organized, proactive, adaptability"
+}
+}
