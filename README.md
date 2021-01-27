@@ -1,2 +1,2 @@
 # A_Shevtsova_course
-It's my repositoriy for homework.
+It's my repository for homework.
